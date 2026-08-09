@@ -95,10 +95,10 @@ SQL was used to perform operational and business analysis, including:
 
 ## Files Included
 
-* `OLA_Data_Analyst_Project.pbix` – Power BI dashboard file
-* `OLA_Dataset.xlsx` – Excel dataset
-* `OLA_SQL_Queries.sql` – SQL queries used for analysis
-* `dashboard.png` – Dashboard preview image
+* `Ola Project.pbix` – Power BI dashboard file
+* `Ola Project.csv` – Excel dataset
+* `Booking_projects.sql` – SQL queries used for analysis
+* `Screenshot(21-25).png` – Dashboard preview image
 * `README.md` – Project documentation
 * `OLA_Business_Insights.md` – Business insights report
 
